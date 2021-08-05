@@ -31,9 +31,6 @@ $(function () {
 })
 
 
-
-$(function(){
-
   // -- burger
 $(function() {
   let isOpened = false
@@ -53,7 +50,6 @@ $(function() {
   //   $(this).toggleClass('is-opened')
   //   $('.c-navbar').toggleClass('is-opened')
   // })
-})
 
 $(function(){
   
